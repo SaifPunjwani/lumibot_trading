@@ -1,0 +1,14 @@
+2023-05-09 01:57:47,602: root: INFO: SwingHigh : Executing the initialize lifecycle method
+2023-05-09 01:57:47,916: root: INFO: Sleeping until the market opens
+2023-05-09 02:15:13,524: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-05-09 02:15:13,537: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-05-09 02:15:13,785: alpaca_trade_api.stream: INFO: connected to: wss://api.alpaca.markets/stream/
+2023-05-09 03:18:56,085: alpaca_trade_api.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2023-05-09 03:18:56,099: alpaca_trade_api.stream: INFO: starting trading websocket connection
+2023-05-09 03:18:56,663: alpaca_trade_api.stream: INFO: connected to: wss://api.alpaca.markets/stream/
+2023-05-09 04:05:20,048: root: INFO: SwingHigh : Executing the on_abrupt_closing event method
+2023-05-09 04:05:20,051: root: INFO: Trading finished
+2023-05-09 04:05:20,936: root: ERROR: Could not get any pricing data from Alpaca for SPY, the DataFrame came back empty
+2023-05-09 04:05:21,066: root: INFO: SwingHigh : Executing the on_abrupt_closing event method
+2023-05-09 04:05:21,066: root: INFO: Trading finished
+2023-05-09 04:05:21,552: root: INFO: Sleeping until the market opens
